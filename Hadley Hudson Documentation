@@ -1,0 +1,4 @@
+I contacted IT at Clemson to help me be able to obtain a Palmetto Account so that I can register for training that will allow me access to the Palmetto Cluster.
+The directions to install adnimerge on R studio appear to be out of date as I am unable to locate where to download ADNIMERGE_0.0.1.tar.gz from LONI on the USC site. I have contacted Dr. Absher about this issue and am waiting for his response before I can proceed with setting up my R studio.
+I have been communicating with Brandon and we have been working through these obstacles together so that we may proceed with our research and data clearing.
+I also tried to follow the instructions Dr. Absher provided with the script in this document: R_setup_adnimerge_env_variables_libraries. Again, several of the files were currently inaccesible. Without this information, I am unable to use ggplot.
