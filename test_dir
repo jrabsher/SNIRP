@@ -1,0 +1,10 @@
+#!/bin/bash
+
+for i in `ls -d ./*`
+cd `echo $i`
+
+do
+echo `pwd` >> test_out_447pm
+echo `ls -1 *6mm*nii`
+cd ..
+done
